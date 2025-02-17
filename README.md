@@ -2,7 +2,7 @@
 
 Pre Final Year Student @ St. Joseph's Institute Of Technology
 
-- ⚡ I’m currently learning DSA, Cloud and DevOps
+- ⚡ I’m currently learning Data Structures and Algorithms
 - 🌐 Enthusiast in Cloud Computing and DevOps
 - 🌱 Currently working on mastering DevOps Practices...
   
