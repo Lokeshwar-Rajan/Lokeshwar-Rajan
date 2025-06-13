@@ -17,7 +17,7 @@ Pre Final Year Student @ St. Joseph's Institute Of Technology
 ### Projects 🔍
 
 - ☁️ **Serverless-File-Sharing-Platform**: built for seamless file transfers without the hassle of managing servers!
-- 🌱 **Web Identity Federation**: enabling users to log in cloud platforms with third-party identity providers effortlessly
+- 🌱 **Caloriq**: Your personalized calorie tracker for smarter goals
 
 ---
 
